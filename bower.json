@@ -1,0 +1,26 @@
+{
+  "name": "cooking-rogue",
+  "description": "A cooking Roguelike",
+  "main": "index.js",
+  "authors": [
+    "Joseph Carrington"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Roguelike",
+    "Game",
+    "Cooking",
+    "Kitchen"
+  ],
+  "homepage": "https://github.com/JosephCarrington/cooking-rogue",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rot.js": "^0.5.0"
+  }
+}

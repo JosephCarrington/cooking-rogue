@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/JosephCarrington/cooking-rogue/issues"
   },
-  "homepage": "https://github.com/JosephCarrington/cooking-rogue#readme"
+  "homepage": "https://github.com/JosephCarrington/cooking-rogue#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1"
+  }
 }
