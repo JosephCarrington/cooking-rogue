@@ -1,0 +1,6 @@
+{
+  "name": "Cooking-rogue",
+  "tagline": "A roguelike set in the kitchen.",
+  "body": "### Cooking Rogue Design Outline\r\n\r\n#### Minimum Viable Product Features\r\n\r\n- [ ] Ingredients\r\n - [ ] Freshness\r\n   - Current Freshness\r\n   - Freshness Factor\r\n - Quality\r\n - Cookedness\r\n   - Current Cookedness\r\n   - Cookedness Factor\r\n - Preparation (ie: chopped, parboiled, blended)\r\n - Special Quality Tags\r\n- Recipes\r\n - Starter Recipes\r\n - Recipes Generated From Ingredients\r\n- Utensils\r\n - Preparation Utensils\r\n   - Quality\r\n - Cooking Utensils\r\n   - Quality\r\n- Skills\r\n - Quality / Freshness Sense\r\n - Preparation\r\n - Cooking\r\n - Others or more specific?\r\n- Ordering and Vendors\r\n - Shopping / Ordering\r\n   - Markets\r\n    - Market Quality\r\n    - Market Selection\r\n - Vendors\r\n   - Vendor Quality\r\n   - vendor Rapport\r\n   - Vendor Selection\r\n - Money\r\n- Customers\r\n - Realistic Modeling of Desire Matrix\r\n   - Food Quality\r\n   - Service\r\n   - Menu Quality\r\n - Better Desirability leads to More Customers\r\n- Kitchen\r\n - Utensils take up space and can be moved\r\n - Cooktop / Prep Tables are semi-permanent and expensive to move / upgrade",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
