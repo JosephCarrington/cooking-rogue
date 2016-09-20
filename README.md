@@ -48,3 +48,7 @@ A roguelike set in the kitchen.
 - [ ] Kitchen
  - [ ] Utensils take up space and can be moved
  - [ ] Cooktop / Prep Tables are semi-permanent and expensive to move / upgrade
+
+
+Flavor Bible
+Culinary Artistry
